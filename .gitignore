@@ -1,0 +1,7 @@
+
+Library/*
+logs/*
+Temp/*
+
+.vsconfig
+*.sln
